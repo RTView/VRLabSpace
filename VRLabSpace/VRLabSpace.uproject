@@ -54,6 +54,17 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Postshot",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
